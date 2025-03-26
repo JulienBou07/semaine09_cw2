@@ -120,13 +120,16 @@ nav ul li:nth-child(2) {
 
 /* Exercice 17 */
 
-.exercice17 input + label{
+.exercice17 {
     color: red;
 }
 
 /* Exercice 18 */
 
-
+h1 .word span:last-of-type {
+    color: #640101;
+    font-weight: bold;
+}
 
 
 
